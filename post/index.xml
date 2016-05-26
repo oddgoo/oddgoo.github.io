@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on oddgoo</title>
+    <link>https://oddgoo.com/post/</link>
+    <description>Recent content in Posts on oddgoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 1990 11:00:00 +1100</lastBuildDate>
+    <atom:link href="https://oddgoo.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dreaming in Eorzea: thoughts on Final Fantasy XIV</title>
+      <link>https://oddgoo.com/post/memoir-final-fantasy-xiv/</link>
+      <pubDate>Mon, 01 Jan 1990 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/memoir-final-fantasy-xiv/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/posts/ffxiv/ffxiv_3.jpg&#34; alt=&#34;FFXIV Screenshot 1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;[This piece has been featured on Gamasutra &lt;a href=&#34;http://www.gamasutra.com/blogs/CuauhtemocMoreno/20150129/233912/Dreaming_in_Eorzea_thoughts_on_Final_Fantasy_XIV.php&#34;&gt;here&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;We saw the first signs of the festival at the upper decks of Limsa Lominsa; it was our second visit, but we still felt like foreigners in this coastal city of ships, bastions and salty cods.&lt;/em&gt;
+&lt;em&gt;&amp;ldquo;Welcome to the Moonfire Faire,&amp;rdquo; a Chaperone said as he explained what this was all about. But it was hard to pay attention; the sun had just set and the fireworks were released. We stared at the sky and joined the spectacle with our smiles.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I have vivid, exciting memories of this game. I find it fascinating, how us players and humans can lay out rich, emotional adventures over usually rigid and repetitive MMORPG mechanisms (&lt;em&gt;go here, kill 10 of these, go there, give item, repeat&lt;/em&gt;).
+With their vast environments, capacity for competition/cooperation, and great amounts of content, spaces like Final Fantasy XIV are fertile sandboxes for &amp;ldquo;double make-believe&amp;rdquo;: we are not only what the story tells us, but also the story we tell through our character&amp;rsquo;s actions. We make our own completely unique experiences with, on top of, around, and sometimes despite the official game rules and narratives.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless - and specially as a game designer - there is value in thinking critically about these virtual spaces. Not just looking at the rules and mechanisms (let&amp;rsquo;s not be &lt;a href=&#34;https://storify.com/landonscribbles/ludocentrism-in-games&#34;&gt;ludo-fundamentalists&lt;/a&gt;), but at the game as a whole package, an experience composed of its aesthetics, lore, themes, music, and character design.&lt;/p&gt;
+
+&lt;p&gt;So I put down my &lt;a href=&#34;http://xivdb.com/?item/2426/Mythril-Round-Knife&#34;&gt;Mythril round knife&lt;/a&gt; and take out my pen so I may write some of my thoughts and findings. And if nothing else, let this be my atonement for many a late night spent staring at the market board and trying to make enough money to finance my &lt;a href=&#34;http://ffxiv.gamerescape.com/wiki/Leatherworker&#34;&gt;leatherworking&lt;/a&gt; career.&lt;/p&gt;
+
+&lt;p&gt;####On roaming the lands&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/posts/ffxiv/ffxiv_1.jpg&#34; alt=&#34;FFXIV Screenshot 1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Exploring &lt;a href=&#34;https://www.youtube.com/watch?v=RadO-Lr9_q4&#34;&gt;Eorzea&lt;/a&gt; is initially fantastic because the world has been crafted with incredible love and attention to detail. Whereas other games feature sprinkles of landmarks on a heightmap, FFXIV is the inside of a beautifully designed aquarium. Everything fits naturally in its environment: paths carved by the flora and fauna; visible effects of erosion; rivers, ravines, mountains, and meadows; architecture that dances with the nature around it; and a great use of verticality, layers, and the scars of a world hurt by a cataclysm.&lt;/p&gt;
+
+&lt;p&gt;Exploring Eorzea is not only about taking in the vistas, it also means looking for buried treasure, bathing in the exquisite music, meeting well-written characters and their different accents, finding the great variety of resources and ingredients, joining FATEs (quests specific to some times and locations), and random appearances of rare high-level monsters. It all has a distinctive weight and polish, it all feels both timeless and living.&lt;/p&gt;
+
+&lt;p&gt;However, after a while, the wonder of exploration subdues, my vision pulls away from inside the world and it&amp;rsquo;s now looking at the screen instead.&lt;/p&gt;
+
+&lt;p&gt;One of the reasons (and this is shared by many &amp;ldquo;Theme-park&amp;rdquo; MMORPGs) is the lack of difficulty of going through the terrain, not just in terms of enemies (which all become unthreatening as soon as you reach a certain level), but also in terms of obstacles. Most of the terrain is binary: &amp;ldquo;You can walk through here, you cannot walk through here, perhaps you can jump there too, but that&amp;rsquo;s it.&amp;rdquo; You quickly learn to see the most efficient paths, the nodes; the environment stops having weight and becomes 3D geometry. The danger and thrill of traversing it is lost and the mind goes into a numb, low-alert mode.&lt;/p&gt;
+
+&lt;p&gt;Those rocks in the screenshot, for example. When I look at them, without waypoints, without numbers, my imagination wonders. &amp;ldquo;Would I be able to swim over there?&amp;rdquo; &amp;ldquo;Could I climb halfway or are they too steep?&amp;rdquo; &amp;ldquo;I wonder if I can find something interesting in there?&amp;rdquo; But the answer is, &amp;ldquo;Not really, nothing that I could find there would really surprise me.&amp;rdquo; Like other MMO worlds, most of its elements exist only to be part of its progression and resource system (level-tiered groups of monsters, NPCs, gathering nodes); nothing would exist &amp;ldquo;just because&amp;rdquo;, so the spirit of fascination languishes.&lt;/p&gt;
+
+&lt;p&gt;I know that no matter where I go to or where I look, I will find the same functional constructs as the first area: groups of categorized enemies, little hub areas with merchants, quest givers, chocobo porters, and entrances to dungeons. A bit of whim would go a long way into preserving a feeling of magic. Notable exceptions are the sight-seeing log (which has you looking for landscapes without any monetary or experience point rewards), organically distributed fishing spots, and to a lesser extent, hunt targets (rare high-level fiends with moderately random locations and spawn times).&lt;/p&gt;
+
+&lt;p&gt;But for me, the most negative factor is the placement and movement of mobs. Most of them remain in place, huddled in groups, distributed along a difficulty curve, and doing nothing but waiting to be killed. I feel sad for them, the personality that is so fantastically expressed in their designs and animations is mutilated and confined to a bland existence within their brain-dead behaviours.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Show the inhabitants interacting with their ecosystem in some form! Don&amp;rsquo;t just put them there like a museum of killables!&amp;rdquo; I want to say. They would not even need to change their AI when attacking or being attacked; all it would take to make them more interesting is spicing up their spawn points and initial movement behaviours.&lt;/p&gt;
+
+&lt;p&gt;Take Central Thanalan for example, a dry steppe that fantastically layers itself around a railroad track, layers of cliffs and a river that cuts through its middle with grandeur. Imagine that, instead of all being huddled in motionless groups, the &lt;a href=&#34;http://xivdb.com/?media/127/antling-worker&#34;&gt;Antlings&lt;/a&gt; marched on a line that spanned the whole map and disappeared behind a cliff, &lt;a href=&#34;http://xivdb.com/?media/464/sun-bat&#34;&gt;Sun Bats&lt;/a&gt; swarmed in groups with erratic motions, and the territorial &lt;a href=&#34;http://xivdb.com/?media/350/hammer-beak&#34;&gt;Hammer Beaks&lt;/a&gt; ran fast and freely around the hills, sometimes attacking you by surprise, and sometimes fighting with other animals.&lt;/p&gt;
+
+&lt;p&gt;In short, I wish the living parts of the game tried to be as imaginative as the static ones.&lt;/p&gt;
+
+&lt;p&gt;####On grinding&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/posts/ffxiv/ffxiv_2.jpg&#34; alt=&#34;FFXIV Screenshot 1&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Backbreakin&amp;rsquo;, arse-bustin&amp;rsquo; work, it is. But seein&amp;rsquo; me vessels ridin&amp;rsquo; the winds, soarin&amp;rsquo; off to far lands where me legs will never carry me - well, at least me sweat and blood ain&amp;rsquo;t been for naught, eh?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Such were the laborer&amp;rsquo;s words, and I would see as he saw.
+&lt;em&gt;–Millith Ironheart, personal sightseeing log&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have weird ideas; I want to grind in all the crafting and gathering classes just so that I can make enough money to easily buy advanced weapons and skip the grind to get those in end-game raids. I am so turned-off by the idea of grinding dungeons that I am willing to undertake a perhaps bigger grind just to skip it. The combat is not bad, mind you, but it&amp;rsquo;s exactly the same reason why I prefer repeating the Killing Floor survival scenarios over Left 4 Dead&amp;rsquo;s &amp;ldquo;get from A to B&amp;rdquo; ones. It&amp;rsquo;s about not minding a treadmill but hating the idea of going from one place to the other multiple times.&lt;/p&gt;
+
+&lt;p&gt;I think one of the reasons is that travelling, or going through a dungeon, involves a narrative dictated by its environment and gameplay sequences, which usually culminates in a climax. On the fifth time of going through it, I feel offended because I have already been sold this story arc, this struggle, this &amp;ldquo;epic&amp;rdquo; conclusion; the game is not only killing the feeling of awe and exploration, it&amp;rsquo;s insulting it.&lt;/p&gt;
+
+&lt;p&gt;I decide that I will enjoy what the world has to offer in a different way; there too much wonder and beauty here to simply dismiss the content, but I want to look at it with my own eyes.&lt;/p&gt;
+
+&lt;p&gt;####On being someone&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/posts/ffxiv/ffxiv_4.jpg&#34; alt=&#34;FFXIV Screenshot 1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When I play a game or consume any media, there is a conversation between me, the piece, and its creators. In my head, the three of us sit in a room and share ideas, stories and emotions; in that way, I enjoy games mostly for the beauty that happens in the intersection of my imagination with that of the creators.&lt;/p&gt;
+
+&lt;p&gt;As time passes, FFXIV starts to drown both my voice and the voice of the creators, leaving only the &lt;a href=&#34;http://normallyrascal.com/2014/06/04/level-99-capitalist/&#34;&gt;hard-headed mechanisms of idealised capitalism&lt;/a&gt; talking by themselves, and me only listening, following, listening; my imagination has been kicked out. Once that happens, I know that I have stopped internally enjoying the experience and I am just playing for the external reward and progression.&lt;/p&gt;
+
+&lt;p&gt;This experience teaches me about myself. I don&amp;rsquo;t want to be the most powerful mage, nor the richest person; I just want to lose myself in the world and have experiences that are truly unique to me and my close ones. I want to be a meaningful citizen of this realm, carve my own path, find a little corner of meaning where I can have some weight in other people&amp;rsquo;s lives; not a lot of weight, just a little bit is enough. &amp;ldquo;If I try to pursue a unique path without high-level raiding, will that make me feel special, or simply inferior?&amp;rdquo; I ask myself &amp;ldquo;Does this game give me a special place, or simply a spot in the rankings?&amp;rdquo; But then I realise, the answer does not lie completely within the ludic structures; I should not expect external validation for finding my personal essence. I cite Lana Polansky: &lt;a href=&#34;http://sufficientlyhuman.com/archives/372&#34;&gt;&amp;ldquo;When the conditions of a system give you so little to work with, you have to find your own corners of meaning,&amp;rdquo;&lt;/a&gt; especially when all the richness outside of the mechanisms in FFXIV gives you plenty of opportunity to do so.&lt;/p&gt;
+
+&lt;p&gt;FFXIV lets you pursue every class/job/path by simply equipping the right tool or weapon. I like this. If I had to lock myself to a class like in most other MMORPGs, I wouldn&amp;rsquo;t feel unique, I would just feel like I was placed into a discrete container. This is a special kind of power fantasy for me; it&amp;rsquo;s not the fantasy of infinite growth, nor the fantasy of increasing destructive power, it&amp;rsquo;s the much more personal and relatable fantasy of being able to make life decisions without closing other paths. &amp;ldquo;I don&amp;rsquo;t have to define myself, I can be anything and everything!&amp;rdquo; Furthermore, race stat bonus are negligible and gender makes no difference at all, hurrah!&lt;/p&gt;
+
+&lt;p&gt;To my own surprise, I found that one of the most unique and internally rewarding activities is to plan, compose, take, and edit screenshots. As soon as I let go of my pre-conceptions about how I&amp;rsquo;m supposed to enjoy the game, I start looking at Eorzea and its inhabitants as an amateur photographer. I rediscover the world; exploring it feels not only fresh, but meaningful. Even collecting new costumes becomes important in a quest of aesthetics! Screenshots can tell stories that would never be possible with the game mechanics.&lt;/p&gt;
+
+&lt;p&gt;Eorzea gives you a couple dozen paths to level up, but a million different ways to look at it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Still Life</title>
+      <link>https://oddgoo.com/post/still-life/</link>
+      <pubDate>Tue, 01 Jan 1985 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/still-life/</guid>
+      <description>&lt;p&gt;Winner of the 2012 Sydney Chapter Molyjam competition.&lt;/p&gt;
+
+&lt;p&gt;&amp;rdquo; Imagine controlling a tear, similar to flower but instead of fields you navigate a naked body. &amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;-@PeterMolydeux&lt;/p&gt;
+
+&lt;p&gt;Made in collaboration with Hee-eun Yeo and Zaraar Khattak&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HM8LWjbcRp4&#34;&gt;GamePlay Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://archive.molyjam.com/display.php?GameID=12&#34;&gt;Entry Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/stillLife_1.jpg&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ehco</title>
+      <link>https://oddgoo.com/post/ehco/</link>
+      <pubDate>Sun, 01 Jan 1984 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/ehco/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/ehco/ehco_2.JPG&#34; alt=&#34;ehco_screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ehco was my team&amp;rsquo;s entry in the Sydney 2014 Global Game Jam; it won the best Audio Award thanks to the music made by &lt;a href=&#34;https://www.facebook.com/AllBetrayingEdan&#34;&gt;Brad Gentle&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/BN93_GdmiFs&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;It was made in 48 hours, I coded the game mechanics, helped design the concept and integrated &lt;a href=&#34;http://windandmill.com&#34;&gt;Hee-eun Yeo&amp;rsquo;s hand-made watercolour art&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original Description bye Leo Turem:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Explore four seasonal micro-planets in this VR-enabled experience.&lt;/p&gt;
+
+&lt;p&gt;Concept: Life is a journey riddled with challenges posed by our environment, those around us, and ourselves. By reflecting on our pasts and our futures, we can reconcile them in order to move forward down the path laid before us. Some paths are harder than others; your path is yours to tread, but you needn&amp;rsquo;t tread it alone.&lt;/p&gt;
+
+&lt;p&gt;Each planet is a mirrored image of the present in a different stage of life. There is a reflection of you on each planet, you can see it follow your moves when standing at certain planet meridians.The seed also has a reflection, but as a grown tree in Summer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://globalgamejam.org/2014/games/ehco&#34;&gt;Entry Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+    &lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/ehco/ehco_1.JPG&#34; alt=&#34;&#34; /&gt;
+    &lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/ehco/ehco_2.JPG&#34; alt=&#34;&#34; /&gt;
+    &lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/ehco/ehco_3.JPG&#34; alt=&#34;&#34; /&gt;
+    &lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/ehco/ehco_4.JPG&#34; alt=&#34;&#34; /&gt;
+    &lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/ehco/ehco_5.JPG&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amberial Axis</title>
+      <link>https://oddgoo.com/post/amberial-axis/</link>
+      <pubDate>Tue, 01 Jan 1980 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/amberial-axis/</guid>
+      <description>&lt;p&gt;Sequel to Amberial with a level editor. Made with Flash and the Box2D engine.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.kongregate.com/games/oddgoo/amberial-axis&#34;&gt;Play it on Kongregate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/AmberialAxis.jpg&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sharks Superpredators</title>
+      <link>https://oddgoo.com/post/sharks-superpredators/</link>
+      <pubDate>Tue, 01 Jan 1980 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/sharks-superpredators/</guid>
+      <description>&lt;p&gt;Participated as the coder. Specially rewarding was the development of a 3D parallax effect that uses the accelerometer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/au/app/sharks-superpredators/id553807662?mt=8&#34;&gt;App Store Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://a3.mzstatic.com/au/r30/Purple/v4/b5/76/f4/b576f4b6-215d-8cee-0b21-041439f2edbc/screen480x480.jpeg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://a2.mzstatic.com/au/r30/Purple/v4/3f/43/b5/3f43b5df-b8a1-8f6d-e9b2-4e9d4f05f000/screen480x480.jpeg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://a3.mzstatic.com/au/r30/Purple/v4/89/ed/de/89eddeff-f89d-2e5f-0cc8-8663fc669662/screen480x480.jpeg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://a4.mzstatic.com/au/r30/Purple/v4/ae/48/8b/ae488b42-12e2-bc73-fc3f-75bb4b87caf9/screen480x480.jpeg&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Trashy Love Story</title>
+      <link>https://oddgoo.com/post/a-trashy-love-story/</link>
+      <pubDate>Thu, 01 Jan 1970 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/a-trashy-love-story/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/trashyLove/cover.png&#34; alt=&#34;trashy love screenshot 1&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;If you&amp;rsquo;re ready for a charming love story between companions you&amp;rsquo;ve always ignored, give this game a shot. Then, recycle it and show it to a friend.&amp;rdquo;
+-&lt;a href=&#34;http://jayisgames.com/archives/2012/04/a_trashy_love_story.php&#34;&gt;Jay is Games: A Trashy Love Story&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;a Trashy Love Story is flash game of precision maneuvers and relationship metaphors expressed through level design. It was made with &lt;a href=&#34;http://flixel.org/&#34;&gt;Flixel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.kongregate.com/games/oddgoo/a-trashy-love-story&#34;&gt;Play it on Kongregate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/trashyLove/trashylove_2.png&#34; alt=&#34;trashy love screenshot 2&#34; /&gt;
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/trashyLove/trashylove_1.png&#34; alt=&#34;trashy love screenshot 1&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amberial</title>
+      <link>https://oddgoo.com/post/amberial-2/</link>
+      <pubDate>Thu, 01 Jan 1970 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/amberial-2/</guid>
+      <description>&lt;p&gt;First game I ever published! (and still the most popular one)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.kongregate.com/games/oddgoo/amberial&#34;&gt;Play it on Kongregate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Amberial.jpg&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amberial: Nebulosa Realms</title>
+      <link>https://oddgoo.com/post/amberial-nebulosa/</link>
+      <pubDate>Thu, 01 Jan 1970 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/amberial-nebulosa/</guid>
+      <description>&lt;p&gt;A sequel to Amberial, this is the most played game I have made. Before Mochibot closed down, it had registered more than 2 million gameplays across the web.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://web.archive.org/web/20120625012707/http://www.mochimedia.com/contest/jan08&#34;&gt;Third Place in Mochi Ads&amp;rsquo; &amp;ldquo;Rock Star&amp;rdquo; Contest (Internet Archive)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.kongregate.com/games/oddgoo/amberial-nebulosa-realms&#34;&gt;Play it Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/AmberialNebulosa/2.PNG&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amberialites: The Tower Of Endurance</title>
+      <link>https://oddgoo.com/post/amberial/</link>
+      <pubDate>Thu, 01 Jan 1970 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/amberial/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.kongregate.com/games/oddgoo/amberialites-the-tower-of-endurance&#34;&gt;Play it on Kongregate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Amberialites.jpg&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Dose</title>
+      <link>https://oddgoo.com/post/daily-dose/</link>
+      <pubDate>Thu, 01 Jan 1970 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/daily-dose/</guid>
+      <description>&lt;p&gt;A puzzle platformer about post-scarcity corporatism and coffee. In space.&lt;/p&gt;
+
+&lt;p&gt;Made in collaboration with &lt;a href=&#34;http://www.cmee4.com.au&#34;&gt;cmee4 Productions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Coming Soon.&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/DailyDose/1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/DailyDose/2.jpg&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Depict</title>
+      <link>https://oddgoo.com/post/depict-2/</link>
+      <pubDate>Thu, 01 Jan 1970 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/depict-2/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.igfmobile.com/php-bin/entry2009.php?id=897&#34;&gt;IGF 2009 Mobile Finalist&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original Description:&lt;/strong&gt;
+Depict implements the camera on the mobile phones to make a game experience in which the players arrange and photograph elements in their surroundings to match images and colors established in course of the game.&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Depict/1.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Depict/2.png&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lilac.27</title>
+      <link>https://oddgoo.com/post/lilac-27/</link>
+      <pubDate>Thu, 01 Jan 1970 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/lilac-27/</guid>
+      <description>&lt;p&gt;Lilac.27 was my entry to Ludum Dare 23. It won 9th place in Graphics and 26th Overall.&lt;/p&gt;
+
+&lt;p&gt;Here is a Let&amp;rsquo;s Play video by cirby88TNG:
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/0okSMmlrEX0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-23/?action=preview&amp;amp;uid=6590&#34;&gt;Entry Page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://c3434655.r55.cf0.rackcdn.com/Lilac27.zip&#34;&gt;Download the Comp Version (For Windows)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Lilac.27/3.PNG&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Lilac.27/1.gif&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Lilac.27/2.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Lilac.27/4.PNG&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shape-a-licious</title>
+      <link>https://oddgoo.com/post/shape-a-licious/</link>
+      <pubDate>Thu, 01 Jan 1970 11:00:00 +1100</pubDate>
+      
+      <guid>https://oddgoo.com/post/shape-a-licious/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.kongregate.com/games/oddgoo/shape-a-licious&#34;&gt;Play it on Kongregate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[[gallery-grid
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Shape-a-licious%202.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://oddgoo.io.s3.amazonaws.com/covers/Shape-a-licious.jpg&#34; alt=&#34;&#34; /&gt;
+]]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
