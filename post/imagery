@@ -7,7 +7,7 @@ aliases = [
 	"imagery"
 ]
 +++
-[[gallery-grid
+
 ![](http://oddgoo.io.s3.amazonaws.com/imagery/mermaid_2.jpg)
 ![](http://oddgoo.io.s3.amazonaws.com/imagery/DropAgentLogo.png)
 ![](http://oddgoo.io.s3.amazonaws.com/imagery/map_of_cadizza_small.jpg)
@@ -22,4 +22,3 @@ aliases = [
 ![](http://oddgoo.io.s3.amazonaws.com/imagery/photo/ladybug.jpg)
 ![](http://oddgoo.io.s3.amazonaws.com/imagery/moonchill.jpg)
 ![](http://oddgoo.io.s3.amazonaws.com/imagery/CarbonCrusade.png)
-]]
